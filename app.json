@@ -19,7 +19,6 @@
         },
         "android": {
             "googleServicesFile": "./firebase/google-services.json",
-            "enableProguardInReleaseBuilds": true,
             "adaptiveIcon": {
                 "foregroundImage": "./assets/images/adaptive-icon.png",
                 "backgroundColor": "#ffffff"
